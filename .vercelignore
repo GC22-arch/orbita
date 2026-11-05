@@ -1,0 +1,9 @@
+/node_modules
+/.next
+/.env*
+/.claude
+/.mcp.json
+/supabase
+/tsconfig.tsbuildinfo
+/CLAUDE.md
+/GEMINI.md
